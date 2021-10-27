@@ -296,7 +296,7 @@ height: 220px;
 
 /*=========================DESKTOP STYLES===================================*/
 @media (min-width: 1200px){
-div .health, .journey, .coding, .career, .selfie, .travel, .hustle, .rescue, .peace{
+div .health, .journey, .coding, .career, .travel, .hustle, .rescue, .peace{
   flex-basis: 20%;
 }
 div .journey {
